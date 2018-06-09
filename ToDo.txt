@@ -1,0 +1,6 @@
+Screens:
+	User Identifikationsscreen
+	Produkte Screen
+	On Press Produkt Screen
+		Show product, price and "Buy Now" button
+		On Press "Buy Now" add price to user balance (AsynchStorage)
